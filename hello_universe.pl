@@ -3,6 +3,6 @@
 use strict;
 use warnings;
 
-print "Hello Universe!\n";
+print "hello universe!\n";
 
 exit 0;
